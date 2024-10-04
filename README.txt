@@ -1,6 +1,6 @@
 Enterprise Integration Dashboard
 
-    This is a web application, build in React, that displays widgets with simulated fetched data. It is designed to be quickly modified for use with real API data. 
+    This is a web application, built in React, that displays widgets with simulated fetched data. It is designed to be quickly modified for use with real API data. 
     It allows users to manage widgets, each dedicated to a program an enterprise may be using, switch data displays, and toggle from light to dark mode. 
 
 Tech Stack
