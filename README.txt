@@ -21,7 +21,3 @@ Deployment
 
     frontend: http://localhost:3000
     backend: http://localhost:3001
-
-Pages
-
-    Only displays frontend.
