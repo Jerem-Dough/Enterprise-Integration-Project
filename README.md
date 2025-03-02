@@ -17,9 +17,11 @@ Frontend:
   - Chart.js – For rendering interactive graphs and pie charts.
   - React Beautiful DnD – Enables drag-and-drop functionality for customizable widget positioning.
   - CSS – Styles the UI for responsiveness and a modern look.
+
 Backend:
   - Node.js – JavaScript runtime for executing backend logic.
-  - Express – Lightweight backend framework for handling API routes and data retrieval.  
+  - Express – Lightweight backend framework for handling API routes and data retrieval.
+
 API: Currently fetching mock data (can be configured for external data sources).
 
 ## **Deployment**
