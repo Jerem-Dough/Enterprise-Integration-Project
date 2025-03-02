@@ -4,11 +4,11 @@ This is a web application, built in React, that displays widgets with simulated 
 
 ## **Features**
 
-  Dynamic Widgets: Add, remove, and reposition widgets to customize the dashboard.  
-  Multiple Display Options: Switch between text-based data, graphs, and pie charts for visualization.  
-  Dark Mode: Toggle between light and dark themes for a personalized user experience.  
-  Drag-and-Drop Interface: Reorder widgets dynamically using an intuitive drag-and-drop system.  
-  API-Ready: Designed to be easily integrated with real API data instead of mock data.  
+  - Dynamic Widgets: Add, remove, and reposition widgets to customize the dashboard.  
+  - Multiple Display Options: Switch between text-based data, graphs, and pie charts for visualization.  
+  - Dark Mode: Toggle between light and dark themes for a personalized user experience.  
+  - Drag-and-Drop Interface: Reorder widgets dynamically using an intuitive drag-and-drop system.  
+  - API-Ready: Designed to be easily integrated with real API data instead of mock data.  
 
 ## **Tech Stack**
 
