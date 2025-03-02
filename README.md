@@ -16,7 +16,7 @@ Frontend:
   - React – Component-based UI framework for rendering widgets and managing state.
   - Chart.js – For rendering interactive graphs and pie charts.
   - React Beautiful DnD – Enables drag-and-drop functionality for customizable widget positioning.
-  - CSS – Styles the UI for responsiveness and a modern look.  
+  - CSS – Styles the UI for responsiveness and a modern look.
 Backend:
   - Node.js – JavaScript runtime for executing backend logic.
   - Express – Lightweight backend framework for handling API routes and data retrieval.  
