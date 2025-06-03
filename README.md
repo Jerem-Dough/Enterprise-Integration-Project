@@ -24,7 +24,7 @@ Backend:
 
 API: Currently fetching mock data (can be configured for external data sources).
 
-## **Deployment**
+## **Local Deployment**
 
 To run the application locally, install dependencies for both the frontend and backend, then start each service separately.
 
